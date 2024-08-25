@@ -1,5 +1,11 @@
+# Welcome to My GitHub Profile!
 
----
-[![](https://visitcount.itsvg.in/api?id=danieljhkim&icon=0&color=0)](https://visitcount.itsvg.in)
+### About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 I’m currently working on various Leetcode problems and other interesting projects.
+- 🌱 I’m currently learning advanced algorithms and data structures.
+- 👯 I’m looking to collaborate on open-source projects.
+
+### Skills
+
+- **Languages**: Python, JavaScript, Java
