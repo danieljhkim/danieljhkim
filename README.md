@@ -1,11 +1,15 @@
-# Welcome to My GitHub Profile!
+## Hi there, I'm Daniel! 
 
-### About Me
+## 🚀 About Me
+I'm a **Software Engineer** with a deep passion for building scalable and efficient systems. Coming from a **non-traditional CS background**, I've worked hard to master my craft and continually grow as a developer. My goal is to solve challenging problems, write high-quality code, and contribute to impactful projects.
 
-- 🔭 I’m currently working on various Leetcode problems and other interesting projects.
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on open-source projects.
+## 🎯 Current Focus
+- Deep diving into **algorithms, system design, and problem-solving**
+- Exploring high-demand **backend technologies** and distributed systems
 
-### Skills
+## 💻 Tech Stack
+- **Languages:** Python, Java, JavaScript, TypeScript
+- **Other:** System Design, Data Structures & Algorithms, Low Level Design
 
-- **Languages**: Python, JavaScript, Java
+Feel free to check out my repos and reach out for collaboration! 🚀
+
