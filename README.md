@@ -1,6 +1,6 @@
 ### Daniel Kim
 
-Backend and infrastructure engineer in San Jose. By day: distributed systems, search,and data infrastructure. After hours: tooling that lets AI coding agents do real work safely.
+Backend and infrastructure engineer in San Jose. By day: distributed systems, search, and data infrastructure. After hours: tooling that lets AI coding agents do real work safely.
 
 **Now building [constellation-works](https://github.com/constellation-works)**, a small set of
 local-first tools for working with coding agents.
